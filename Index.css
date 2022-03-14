@@ -1,0 +1,453 @@
+*{
+    font-family:Arial, Helvetica, sans-serif
+}
+
+.t1 {
+    color: #3858D6;
+    font-size: 24px;
+    font-weight: 800;
+    position: absolute;
+    top: 7%;
+    left: 10%;
+}
+
+.t2 {
+    color: blue;
+    font-size: 50px;
+    font-weight: 900;
+    position: absolute;
+    top: 30%;
+    left: 10%;
+}
+
+.lf {
+    color: blue;
+    font-size: 18px;
+    font-weight: 700;
+    position: absolute;
+    text-decoration: none;
+}
+
+.l1 {
+    top: 12%;
+    left: 41%;
+}
+
+.l2 {
+    top: 12%;
+    left: 51%;
+}
+
+.l3 {
+    top: 12%;
+    left: 61%;
+}
+
+.l4 {
+    top: 12%;
+    left: 68%;
+}
+
+.l5 {
+    top: 12%;
+    left: 81%;
+}
+
+.img1 {
+    position: absolute;
+    top: 50%;
+    left: 51%;
+}
+
+.tx1 {
+    color: blue;
+    font-size: 18px;
+    text-align: justify;
+    position: absolute;
+    top: 60%;
+    left: 10%;
+}
+
+.tx2 {
+    color: blue;
+    font-size: 14px;
+    text-align: justify;
+    position: absolute;
+    top: 81%;
+    left: 13%;
+}
+
+.tx3 {
+    color: blue;
+    font-size: 14px;
+    text-align: justify;
+    position: absolute;
+    top: 81%;
+    left: 27%;
+}
+
+.tx4 {
+    color: blue;
+    font-size: 20px;
+    text-align: justify;
+    position: absolute;
+    top: 108%;
+    left: 13%;
+}
+
+.cuadrob {
+    width: 1030px;
+    height: 145px;
+    background-color: white;
+    position: absolute;
+    top: 116%;
+    left: 0%;
+}
+
+.box1 {
+    color: blue;
+    font-size: 20px;
+    text-align: justify;
+    position: absolute;
+    top: 123%;
+    left: 12%;
+}
+
+.box1p {
+    color: blue;
+    font-size: 20px;
+    text-align: justify;
+    position: absolute;
+    top: 128%;
+    left: 12%;
+}
+
+.box2 {
+    color: blue;
+    font-size: 20px;
+    text-align: justify;
+    position: absolute;
+    top: 123%;
+    left: 32%;
+}
+
+.box2p {
+    color: blue;
+    font-size: 20px;
+    text-align: justify;
+    position: absolute;
+    top: 128%;
+    left: 32%;
+}
+
+.box3 {
+    color: blue;
+    font-size: 20px;
+    text-align: justify;
+    position: absolute;
+    top: 123%;
+    left: 48%;
+}
+
+.box3p {
+    color: blue;
+    font-size: 20px;
+    text-align: justify;
+    position: absolute;
+    top: 128%;
+    left: 48%;
+}
+
+.submit {
+    position: absolute;
+    top: 128.5%;
+    left: 68%;
+}
+
+.astra {
+    position: absolute;
+    top: 157%;
+    left: 11%;
+}
+
+.sino {
+    position: absolute;
+    top: 161%;
+    left: 35%;
+}
+
+.pfizer {
+    position: absolute;
+    top: 159%;
+    left: 57%;
+}
+
+.moderna {
+    position: absolute;
+    top: 159%;
+    left: 74%;
+}
+
+.t3 {
+    color: blue;
+    font-size: 35px;
+    font-weight: 800;
+    position: absolute;
+    top: 185%;
+    left: 10%;
+}
+
+.t4 {
+    color: blue;
+    font-size: 18px;
+    font-weight: none;
+    position: absolute;
+    top: 199%;
+    left: 10%;
+}
+
+.t5 {
+    color: blue;
+    font-size: 16px;
+    font-weight: 800;
+    position: absolute;
+    top: 237%;
+    left: 12%;
+}
+
+.t6 {
+    color: blue;
+    font-size: 14px;
+    font-weight: none;
+    position: absolute;
+    top: 247%;
+    left: 12%;
+}
+
+.t7 {
+    color: blue;
+    font-size: 16px;
+    font-weight: 800;
+    position: absolute;
+    top: 237%;
+    left: 32%;
+}
+
+.t8 {
+    color: blue;
+    font-size: 14px;
+    font-weight: none;
+    position: absolute;
+    top: 247%;
+    left: 32%;
+}
+
+.t9 {
+    color: blue;
+    font-size: 16px;
+    font-weight: 800;
+    position: absolute;
+    top: 237%;
+    left: 52%;
+}
+
+.t10 {
+    color: blue;
+    font-size: 14px;
+    font-weight: none;
+    position: absolute;
+    top: 247%;
+    left: 52%;
+}
+
+.t11 {
+    color: blue;
+    font-size: 16px;
+    font-weight: 800;
+    position: absolute;
+    top: 237%;
+    left: 72%;
+}
+
+.t12 {
+    color: blue;
+    font-size: 14px;
+    font-weight: none;
+    position: absolute;
+    top: 247%;
+    left: 72%;
+}
+
+.t13 {
+    color: blue;
+    position: absolute;
+    top: 294%;
+    left: 49%;
+}
+
+.img2 {
+    position: absolute;
+    top: 305%;
+    left: 0%;
+}
+
+.t14 {
+    color: blue;
+    position: absolute;
+    font-weight: none;
+    font-size: 18px;
+    top: 305%;
+    left: 49%;
+}
+
+div .antesde {
+    color: blue;
+    position: absolute;
+    font-weight: none;
+    font-size: 12px;
+    top: 335%;
+    left: 49%;
+}
+
+div .emergency {
+    color: blue;
+    position: absolute;
+    font-weight: none;
+    font-size: 16px;
+    top: 400%;
+    left: 10%;
+}
+
+.emergency h1{
+    font-size: 30px
+}
+
+.contact {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    color: blue;
+    position: absolute;
+    font-weight: none;
+    font-size: 14px;
+    top: 140%;
+    left: 25%;
+}
+
+.img3 {
+    position: absolute;
+    top: 430%;
+    left: 40%;
+}
+
+.vac {
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    color: blue;
+    position: absolute;
+    top: 525%;
+    left: 10%;
+}
+.vac a {
+    text-decoration: none;
+    color: blue;
+}
+
+.about {
+    position: absolute;
+    top: 0%;
+    left: 250%;
+}
+
+.l10 {
+    position: absolute;
+    top: 30%;
+    left: 250%;
+}
+
+.l11 {
+    position: absolute;
+    top: 50%;
+    left: 250%;
+}
+
+.l12 {
+    position: absolute;
+    top: 70%;
+    left: 250%;
+}
+
+.company {
+    position: absolute;
+    top: 0%;
+    left: 335%;
+}
+
+.l13 {
+    position: absolute;
+    top: 30%;
+    left: 335%;
+}
+
+.l14 {
+    position: absolute;
+    top: 60%;
+    left: 335%;
+}
+
+.l15 {
+    position: absolute;
+    top: 80%;
+    left: 335%;
+}
+
+.support {
+    position: absolute;
+    top: 0%;
+    left: 450%;
+}
+
+.l16 {
+    position: absolute;
+    top: 30%;
+    left: 450%;
+}
+
+.l17 {
+    position: absolute;
+    top: 50%;
+    left: 450%;
+}
+
+.l18 {
+    position: absolute;
+    top: 70%;
+    left: 450%;
+}
+
+.final p {
+    color: blue;
+    position: absolute;
+    top: 575%;
+    left: 10%;
+}
+
+.final a {
+    text-decoration: none;
+}
+
+.final .ter {
+    color: blue;
+    position: absolute;
+    top: 577%;
+    left: 55%;
+}
+
+.final .pri {
+    color: blue;
+    position: absolute;
+    top: 577%;
+    left: 70%;
+}
